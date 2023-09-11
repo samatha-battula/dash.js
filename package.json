@@ -1,5 +1,5 @@
 {
-    "name": "dashjs",
+    "name": "@org-samatha/dashjs",
     "version": "4.7.0-as2",
     "description": "A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.",
     "author": "Dash Industry Forum",
